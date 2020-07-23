@@ -1,0 +1,2 @@
+# scientificgraphingcalculator
+ A basic and scientific calculator with temperature, speed, time, distance unit conversion with the start of a sin wave graph. I am slowly learning more but I would like a graphing portion to take whatever functions one has, then display this on either another jFrame or a jPanel within the parent JFrame.  I am over my skill limit to be sure, yet the challenge and desire to learn overshadows all fear. I enjoy the process of learning.
